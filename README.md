@@ -8,7 +8,7 @@
 Developed a Real-Time Emotion Recognition System using Deepface. The system can detect and recognize Emotions in a Real-Time streaming video or through a live webcam and display the results in the screen.
 
 ## 📽 Sample Demo:
-
+https://user-images.githubusercontent.com/54114888/152290292-30f9dacf-fb72-49d4-8218-3b3aed65f754.mp4
 
 ## 🏗 Built With:
  - Open CV.
