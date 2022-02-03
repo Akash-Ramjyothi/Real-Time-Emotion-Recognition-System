@@ -1,7 +1,7 @@
 <h1 align="center">Real-Time Emotion Recognition System</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/151290370-2a252589-d00e-419f-9118-447068f9f82c.png" width="180" height="180">
+<img src="https://user-images.githubusercontent.com/54114888/152289784-ea0e4ed8-618f-4c44-9b7a-aa912ee67dee.png" width="180" height="180">
 </p>
 
 ## 📜 Description:
@@ -35,7 +35,7 @@ python emotion.py
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
-- Take a look at the Existing [Issues](https://github.com/Akash-Ramjyothi/Real-Time-Emotion-Detection-System/ssues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/Akash-Ramjyothi/Real-Time-Emotion-Recognition-System/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
